@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test CustomButton test presson 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FAFAFA",
+      "flex": 1,
+    }
+  }
+>
+  <CustomModal
+    modalView={
+      <UNDEFINED
+        imageUrls={
+          Array [
+            Object {
+              "url": "",
+            },
+          ]
+        }
+      />
+    }
+    modalVisible={false}
+    onRequestClose={[Function]}
+    text="imageViewer"
+  />
+  <Loader />
+  <NoInternet />
+  <[object Object]
+    visibilityTime={1500}
+  />
+</View>
+`;

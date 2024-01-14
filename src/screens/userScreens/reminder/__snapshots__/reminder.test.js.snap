@@ -1,0 +1,686 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test CustomButton test presson 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFF",
+      "flex": 1,
+    }
+  }
+>
+  <SubHeader
+    title="Add Reminder"
+  />
+  <ScrollView
+    style={
+      Object {
+        "backgroundColor": "#FFF",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginBottom": 15,
+          "padding": 7,
+        }
+      }
+    >
+      <TouchableOpacity
+        activeOpacity={1}
+        onPress={[Function]}
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginTop": 5,
+            "paddingVertical": 5,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "paddingVertical": 6,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "justifyContent": "flex-start",
+                "width": "35%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#000",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                  "marginLeft": 8,
+                }
+              }
+            >
+              Start Date
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "width": "65%",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "justifyContent": "flex-end",
+                  "width": "90%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "black",
+                    "fontSize": 17,
+                    "marginLeft": 8,
+                  }
+                }
+              >
+                undefined NaN undefined, NaN
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "right": 4,
+                  "width": "10%",
+                }
+              }
+            >
+              <Component
+                icon={
+                  Object {
+                    "icon": Array [
+                      320,
+                      512,
+                      Array [],
+                      "f0d7",
+                      "M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z",
+                    ],
+                    "iconName": "caret-down",
+                    "prefix": "fas",
+                  }
+                }
+                style={
+                  Object {
+                    "position": "absolute",
+                    "right": 0,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </TouchableOpacity>
+      <mockConstructor />
+      <TouchableOpacity
+        activeOpacity={1}
+        onPress={[Function]}
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginTop": 5,
+            "paddingVertical": 5,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "paddingVertical": 6,
+              "width": "100%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "flex-start",
+                "width": "35%",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#000",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                  "marginLeft": 8,
+                }
+              }
+            >
+              End Date
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "width": "65%",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-end",
+                  "justifyContent": "flex-end",
+                  "width": "90%",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "black",
+                    "fontSize": 17,
+                    "marginLeft": 8,
+                  }
+                }
+              >
+                undefined NaN undefined, NaN
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "flex-start",
+                  "justifyContent": "center",
+                  "right": 4,
+                  "width": "10%",
+                }
+              }
+            >
+              <Component
+                icon={
+                  Object {
+                    "icon": Array [
+                      320,
+                      512,
+                      Array [],
+                      "f0d7",
+                      "M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z",
+                    ],
+                    "iconName": "caret-down",
+                    "prefix": "fas",
+                  }
+                }
+                style={
+                  Object {
+                    "position": "absolute",
+                    "right": 0,
+                  }
+                }
+              />
+            </View>
+          </View>
+        </View>
+      </TouchableOpacity>
+      <mockConstructor />
+      <[object Object]
+        isVisible={false}
+        minimumDate={2023-03-20T11:17:56.790Z}
+        mode="date"
+        onCancel={[Function]}
+        onConfirm={[Function]}
+      />
+      <[object Object]
+        isVisible={false}
+        mode="time"
+        onCancel={[Function]}
+        onConfirm={[Function]}
+      />
+      <Text
+        style={
+          Object {
+            "color": "#000",
+            "fontSize": 17,
+            "fontWeight": "600",
+            "marginLeft": 8,
+            "marginTop": 10,
+          }
+        }
+      >
+        Add Title
+      </Text>
+      <Component
+        activeOutlineColor="#02A6AB"
+        mode="outlined"
+        onChangeText={[Function]}
+        outlineColor="#02A6AB"
+        placeholder="Title for reminder"
+        selectionColor="#02A6AB"
+        style={
+          Object {
+            "fontSize": 16,
+            "margin": 8,
+            "marginBottom": 10,
+          }
+        }
+      />
+      <mockConstructor />
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000",
+                "fontSize": 17,
+                "fontWeight": "600",
+                "marginLeft": 8,
+                "marginTop": 10,
+              }
+            }
+          >
+            Frequency
+          </Text>
+          <CustomTooltip
+            content={
+              <View>
+                <Text
+                  style={
+                    Object {
+                      "color": "grey",
+                      "fontSize": 16,
+                      "marginBottom": 4,
+                    }
+                  }
+                >
+                  Add Frequency Timings as:
+                </Text>
+                <Text>
+                  Breakfast - 00:00 AM to 11:00 AM
+                </Text>
+                <Text>
+                  Lunch - 12:00 PM to 6:00 PM
+                </Text>
+                <Text>
+                  Dinner - 7:00 PM to 11:00 PM
+                </Text>
+              </View>
+            }
+            contentStyle={
+              Object {
+                "height": "100%",
+                "width": "100%",
+              }
+            }
+            isVisible={false}
+            onClose={[Function]}
+            placement="top"
+            setShowTip={[Function]}
+            supportedOrientations={
+              Array [
+                "portrait",
+              ]
+            }
+            tooltipStyle={Object {}}
+          >
+            <TouchableOpacity
+              activeOpacity={0.8}
+              onPress={[Function]}
+              style={
+                Object {
+                  "paddingHorizontal": 8,
+                }
+              }
+            >
+              <Component
+                color="#02A6AB"
+                icon={
+                  Object {
+                    "icon": Array [
+                      512,
+                      512,
+                      Array [
+                        "info-circle",
+                      ],
+                      "f05a",
+                      "M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-144c-17.7 0-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32s-14.3 32-32 32z",
+                    ],
+                    "iconName": "circle-info",
+                    "prefix": "fas",
+                  }
+                }
+                size={18}
+              />
+            </TouchableOpacity>
+          </CustomTooltip>
+        </View>
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "marginVertical": 10,
+              "width": "95%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "column",
+                "width": "30%",
+              }
+            }
+          >
+            <TouchableOpacity
+              activeOpacity={1}
+              onPress={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#f0f0f0",
+                  "borderColor": "#02A6AB",
+                  "borderRadius": 0,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "padding": 6,
+                  }
+                }
+              >
+                Breakfast
+              </Text>
+            </TouchableOpacity>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "column",
+                "width": "30%",
+              }
+            }
+          >
+            <TouchableOpacity
+              activeOpacity={1}
+              onPress={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#f0f0f0",
+                  "borderColor": "#02A6AB",
+                  "borderRadius": 0,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "padding": 6,
+                  }
+                }
+              >
+                Lunch
+              </Text>
+            </TouchableOpacity>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "column",
+                "width": "30%",
+              }
+            }
+          >
+            <TouchableOpacity
+              activeOpacity={1}
+              onPress={[Function]}
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#f0f0f0",
+                  "borderColor": "#02A6AB",
+                  "borderRadius": 0,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "color": "black",
+                    "fontSize": 16,
+                    "padding": 6,
+                  }
+                }
+              >
+                Dinner
+              </Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </View>
+      <mockConstructor />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "alignSelf": "center",
+            "flexDirection": "row",
+            "height": "8%",
+            "marginVertical": 10,
+            "width": "95%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "width": "35%",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000",
+                "fontSize": 16,
+                "fontWeight": "600",
+              }
+            }
+          >
+            Take Medicine
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "width": "65%",
+            }
+          }
+        >
+          <TouchableOpacity
+            activeOpacity={1}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#02A6AB",
+                  "borderRadius": 6,
+                  "borderWidth": 1,
+                  "justifyContent": "center",
+                  "paddingVertical": 6,
+                  "width": "46.5%",
+                },
+                Object {
+                  "backgroundColor": "white",
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "black",
+                  "fontSize": 16,
+                  "textAlign": "center",
+                }
+              }
+            >
+              Before food
+            </Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            activeOpacity={1}
+            onPress={[Function]}
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#02A6AB",
+                  "borderRadius": 6,
+                  "borderWidth": 1,
+                  "justifyContent": "center",
+                  "paddingVertical": 6,
+                  "width": "46.5%",
+                },
+                Object {
+                  "backgroundColor": "white",
+                },
+              ]
+            }
+          >
+            <Text
+              numberOfLines={2}
+              style={
+                Object {
+                  "color": "black",
+                  "fontSize": 16,
+                  "textAlign": "center",
+                }
+              }
+              textBreakStrategy="highQuality"
+            >
+              After food
+            </Text>
+          </TouchableOpacity>
+        </View>
+      </View>
+      <mockConstructor />
+      <View
+        style={
+          Object {
+            "marginBottom": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#000",
+              "fontSize": 17,
+              "fontWeight": "600",
+              "marginLeft": 8,
+              "marginTop": 10,
+            }
+          }
+        >
+          Select Days
+        </Text>
+        <[object Object]
+          checkBoxColor="#02A6AB"
+          leftText="Everyday"
+          leftTextStyle={
+            Object {
+              "color": "gray",
+              "fontSize": 16,
+            }
+          }
+          onClick={[Function]}
+          style={
+            Object {
+              "paddingHorizontal": 16,
+              "paddingVertical": 5,
+            }
+          }
+        />
+        <[object Object]
+          checkBoxColor="#02A6AB"
+          isChecked={false}
+          leftText="Selected days"
+          leftTextStyle={
+            Object {
+              "color": "gray",
+              "fontSize": 16,
+            }
+          }
+          onClick={[Function]}
+          style={
+            Object {
+              "paddingHorizontal": 16,
+              "paddingVertical": 5,
+            }
+          }
+        />
+      </View>
+      <mockConstructor />
+      <mockConstructor
+        buttonStyle={
+          Object {
+            "backgroundColor": "#02A6AB",
+            "width": "50%",
+          }
+        }
+        containerStyle={
+          Object {
+            "alignItems": "center",
+            "marginVertical": 35,
+            "width": "100%",
+          }
+        }
+        loading={false}
+        onPress={[Function]}
+        title="Save reminder"
+      />
+    </View>
+  </ScrollView>
+  <[object Object]
+    visibilityTime={1000}
+  />
+</View>
+`;
